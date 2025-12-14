@@ -50,9 +50,13 @@
     Stores relevant conversational facts and makes them retrievable.
 
 🔁 Workflow Diagram
+
+
             User Query
+            
             │
             ▼
+            
             ┌──────────────┐
             │ Retriever    │
             │ Agent        │
