@@ -48,6 +48,8 @@
 
     Memory Module
     Stores relevant conversational facts and makes them retrievable.
+🔁 System Workflow
+![SentinelRAG Workflow Diagram](assets/sentinelrag_workflow.png)
 
 🔁 Workflow Diagram
 
