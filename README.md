@@ -48,6 +48,10 @@
 
     Memory Module
     Stores relevant conversational facts and makes them retrievable.
+    
+🔁 System Workflow
+
+![SentinelRAG Workflow Diagram](assets/sentinelrag_workflow.png)
 
 🔁 Workflow Diagram
 
@@ -204,3 +208,8 @@
 🙌 Acknowledgements
 
     Built as a learning-focused yet production-oriented exploration of modern RAG system design and AI safety principles.
+
+
+git branch -M main
+git remote add origin https://github.com/FadiKais1/SentinelRAG-A-Multi-Agent-Retrieval-Augmented-AI-Chatbot.git
+git push -u origin main
