@@ -1,0 +1,3 @@
+ARP spoofing is a type of cyber attack where an attacker sends falsified ARP messages.
+The goal is to associate the attacker's MAC address with the IP address of another host.
+This allows the attacker to intercept, modify, or block traffic.

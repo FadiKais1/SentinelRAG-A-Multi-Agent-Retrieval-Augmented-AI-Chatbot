@@ -1,0 +1,8 @@
+
+venv\Scripts\activate
+
+
+Remove-Item -Recurse -Force data\chroma_db
+streamlit run frontend/chatbot_app.py
+
+python -m streamlit run frontend/chatbot_app.py
