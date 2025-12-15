@@ -1,4 +1,4 @@
-🤖 SentinelRAG ~ A Multi-Agent, Grounded Retrieval-Augmented AI Chatbot
+🤖 SentinelRAG ~ A Multi-Agent, Grounded Retrieval-Augmented AI Reasearcher Chatbot
 
 📌 Overview
 
